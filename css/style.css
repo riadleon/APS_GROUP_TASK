@@ -1,8 +1,7 @@
 body {
     padding: 10px;
     height: 100px;
-    justify-content: center;
-    align-items: center;
+
 }
 
 .container {
@@ -11,6 +10,8 @@ body {
     gap: 12px;
     height: 70vh;
     padding: 10px;
+
+
 }
 
 .img-center {
@@ -34,9 +35,9 @@ input {
 
 }
 
-label {
+/* label {
     border-bottom: 1px solid #000000;
-}
+} */
 
 
 
